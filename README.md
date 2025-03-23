@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SkiddandoUser
+- 👋 Hi, I’m @Skiddando
 - 👀 I am interested in programming with high level programming languages, currently learning java 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Nothing
